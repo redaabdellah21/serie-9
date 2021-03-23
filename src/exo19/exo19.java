@@ -18,7 +18,7 @@ public class exo19 {
 		System.out.println(analyzeBean.getClassName(4));
 		
 		System.out.println("\n Question 2 \n");
-		System.out.println(analyzeBean.getInstance("exo19.Person"));
+		System.out.println(analyzeBean.getInstance("model.Person"));
 		System.out.println("Je peux cr�er une instance tant que je peux trouver un constructeur vide");
 		
 		System.out.println("\n Question 3 \n");
